@@ -17,16 +17,18 @@ Here are some ideas to get you started:
 
 I am Nnam Darlington, a software developer from Enugu, Nigeria.
 
-📝 I major in web and blockchain development.
+💠 *I major in web and blockchain development.*
 
-📝 I have proficiency in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Redux, Node.Js, and PHP.
+💠 *I have proficiency in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Redux, Node.Js, and PHP.*
 
-📝 Solidity is my language of choice for Dapps development.
+💠 *Solidity is my language of choice for Dapps development.*
 
-🔰 I also make use of Truffle, Ganache, Web3.js, IPFS and Metamask for blockchain development.
+💠 *I also make use of Truffle, Ganache, Web3.js, IPFS and Metamask for blockchain development.*
 
-🔰 I'm always open to collaborate on new projects and ideas.
+💠 *I'm always open to collaborate on new projects and ideas.*
 
 📨 Send me an Email at darlingtonnnam@gmail.com, in case you want to reach out.
 
-🖇 You can connect with me on LinkedIn at https://www.linkedin.com/in/nnamdarlington
+🖇 You can connect with me on LinkedIn at https://www.linkedin.com/in/nnamdarlington.
+
+**Website: https://nnamdarlington.xyz**
