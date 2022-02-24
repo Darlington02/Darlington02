@@ -19,7 +19,7 @@ I am Nnam Darlington, a software developer from Enugu, Nigeria.
 
 💠 *I major in web and blockchain development.*
 
-💠 *I have proficiency in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Redux, Node.Js, and PHP.*
+💠 *I have proficiency in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Next.js, Node.Js, and PHP.*
 
 💠 *Solidity is my language of choice for Dapps development.*
 
