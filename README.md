@@ -32,3 +32,7 @@ I am Nnam Darlington, a software developer from Enugu, Nigeria.
 🖇 You can connect with me on LinkedIn at https://www.linkedin.com/in/nnamdarlington.
 
 **Website: https://nnamdarlington.xyz**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darlington02)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Darlington02&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
