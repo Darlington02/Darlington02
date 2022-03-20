@@ -29,7 +29,7 @@ I am Nnam Darlington, a software developer from Enugu, Nigeria.
 
 📨 Email: darlingtonnnam@gmail.com.
 
-🖇 LinkedIn: https://www.linkedin.com/in/nnamdarlington.
+🖇 LinkedIn: Nnam Darlington.
 
 🌐Website: https://nnamdarlington.xyz
 
