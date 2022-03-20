@@ -27,11 +27,11 @@ I am Nnam Darlington, a software developer from Enugu, Nigeria.
 
 💠 *I'm always open to collaborate on new projects and ideas.*
 
-📨 Send me an Email at darlingtonnnam@gmail.com, in case you want to reach out.
+📨 Email: darlingtonnnam@gmail.com.
 
-🖇 You can connect with me on LinkedIn at https://www.linkedin.com/in/nnamdarlington.
+🖇 LinkedIn: https://www.linkedin.com/in/nnamdarlington.
 
-**Website: https://nnamdarlington.xyz**
+🌐Website: https://nnamdarlington.xyz
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darlington02)](https://git.io/streak-stats)
 
