@@ -31,8 +31,6 @@ I am Nnam Darlington, a software Engineer from Enugu, Nigeria.
 
 📨 Email: darlingtonnnam@gmail.com.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darlington02&theme=monokai)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darlington02&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darlington02&theme=monokai)
 
 ![](https://komarev.com/ghpvc/?username=Darlington02)
