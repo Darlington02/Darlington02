@@ -15,23 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Nnam Darlington, a software developer from Enugu, Nigeria.
+I am Nnam Darlington, a software Engineer from Enugu, Nigeria.
 
 💠 *I major in web and blockchain development.*
 
 💠 *I have proficiency in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Next.js, Node.Js, and PHP.*
 
-💠 *Solidity is my language of choice for Dapps development.*
+💠 *I also make use of Solidity, Truffle, Hardhat, Ganache, Web3.js, Ethers.js, IPFS etc for blockchain development.*
 
-💠 *I also make use of Truffle, Ganache, Web3.js, IPFS and Metamask for blockchain development.*
+💠 *Currently researching and building Zero Knowledge Protocols.*
 
-💠 *I'm always open to collaborate on new projects and ideas.*
+💠 *Open to collaborate on new projects and ideas.*
 
 🖇 LinkedIn: Nnam Darlington.
 
 📨 Email: darlingtonnnam@gmail.com.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darlington02&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darlington02&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darlington02&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darlington02&theme=monokai)
 
 ![](https://komarev.com/ghpvc/?username=Darlington02)
 
