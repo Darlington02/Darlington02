@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Nnam Darlington, a software Engineer from Enugu, Nigeria.
+I am Nnam Darlington
 
 💠 *I major in web and blockchain development.*
 
