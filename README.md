@@ -18,5 +18,5 @@ I am Nnam Darlington
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darlington02&theme=monokai)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Darlington02&theme=monokai)
 
-![](https://komarev.com/ghpvc/?username=Darlington02)
+
 
