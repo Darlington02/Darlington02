@@ -16,7 +16,8 @@ I am Nnam Darlington
 
 📨 Email: darlingtonnnam@gmail.com.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darlington02&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlington02&show_icons=true&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darlington02&theme=monokai)
 
 ![](https://komarev.com/ghpvc/?username=Darlington02)
