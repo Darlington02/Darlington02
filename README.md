@@ -10,9 +10,7 @@
 
 ✨ *Currently immersed in the Zk world, learning to build privacy and scalable solutions for L1 chains with Zk-Snarks and Starks.*
 
-💠 *Open to collaborate on new projects and ideas.*
-
-:computer: Current Interest - Web, Blockchain, Zero Knowledge Proofs
+:computer: *Current Interest - Web, Blockchain, Zero Knowledge Proofs*
 
 **Version Control and Development tools used:**
 <p>
