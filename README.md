@@ -4,9 +4,9 @@
 
 🔭 *I'm a Blockchain Engineer, and ZK Researcher*
 
-👨‍💻 *Expertise in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Next.js and PHP.*
+👨‍💻 *I Possess expertise in web technologies including but not limited to HTML5, CSS3, TailwindCss, Bootstrap Javascript, React.Js, Next.js and PHP.*
 
-☘️ *Proficiency in the use of Solidity, Truffle, Hardhat, Ganache, Web3.js, Ethers.js, IPFS etc for scripting smart contracts on EVM-based chains.*
+☘️ *Proficient in the use of Solidity, Truffle, Hardhat, Ganache, Web3.js, Ethers.js, IPFS etc for scripting smart contracts on EVM-based chains.*
 
 🦚 *Scripting on Starknet with Cairo*
 
