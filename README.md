@@ -2,8 +2,6 @@
   Hi there, I'm Darlington <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
-🔭 *I'm a Blockchain Engineer, and ZK Researcher*
-
 👨‍💻 *Familiar with web technologies including but not limited to HTML5, CSS3, Javascript, React.Js, Next.js and PHP.*
 
 🦚 *Scripting on Starknet with Cairo*
