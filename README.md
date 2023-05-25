@@ -2,15 +2,15 @@
   Hi there, I'm Darlington <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 </h1>
 
-👨‍💻 *Familiar with web technologies including but not limited to HTML5, CSS3, Javascript, React.Js, Next.js and PHP.*
+☘️ *I'm keen on learning and teaching...*
 
-🦚 *Scripting on Starknet with Cairo*
+👨‍💻 *Somewhere in between Engineering and Research...*
 
-☘️ *Proficient in the use of Solidity, and its associated toolchains for scripting smart contracts on EVM-based chains.*
-
-🦀 *On a journey to becoming a full-fledged Rustacean*
+🦚 *Full-time Starknet Maxi, Solidity when necessary, hoping to learn Rust*
 
 ✨ *Zk newbie, learning to build privacy and scalable solutions for L1 chains with Zk-Snarks and Starks.*
+
+👀 *Out to collaborate on cool stuffs*
 
 :computer: *Current Interest - Web, Blockchain, Zero Knowledge Proofs*
 
