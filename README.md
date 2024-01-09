@@ -8,7 +8,7 @@
 
 👀 *Out to collaborate on cool stuffs...*
 
-:computer: *Current Interest - Web, Blockchain, ZKPs..*
+:computer: *Current Interest - Where the wind leads me...*
 
 **👀 Contact me:**
 <p>
@@ -29,10 +29,6 @@
     />
   </a>
   <br />
-  
-  <a href="mailto: darlingtonnnam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Darlington02)
